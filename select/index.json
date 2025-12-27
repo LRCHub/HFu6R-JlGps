@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウォータープルーフガール",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T12:07:47.932168Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウォータープルーフガール",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_ウォータープルーフガール_Onephony.txt"
+    }
+  ]
+}
